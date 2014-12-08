@@ -3,9 +3,9 @@
 <div class="item item-input-inset">
     <label class="item-input-wrapper">
       <i class="icon ion-search placeholder-icon"></i>
-	  <input type="text" placeholder="Word">
+	  <input type="text" placeholder="Word" ng-model="word">
     </label>
-    <button class="button button-small">
+    <button class="button button-small" ng-click="getMeaning()">
       Search
     </button>
   </div>
@@ -14,7 +14,7 @@
 	<ion-list>
 		<ion-item class="item"> 
 			<div style="color:#555555;font-size:10px">dictionary name<div>
-			<div style="padding:5px;border:1px solid black;color:black;font-size:16px">definition</div>
+			<div style="padding:5px;border:1px solid black;color:black;font-size:16px" >definition</div>
 		</ion-item>
 	</ion-list>
 </ion-content>
