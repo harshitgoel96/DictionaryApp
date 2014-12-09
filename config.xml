@@ -16,4 +16,7 @@
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>
+  <feature name="dictionaryPlugin">
+        <param name="android-package" value="com.harshit.dictionary.DictionaryPlugin" />
+  </feature>
 </widget>
