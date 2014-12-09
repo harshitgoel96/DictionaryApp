@@ -1,0 +1,21 @@
+<ion-view title="Dictionary">
+<ion-header-bar class="bar-subheader">
+<div class="item item-input-inset">
+    <label class="item-input-wrapper">
+      <i class="icon ion-search placeholder-icon"></i>
+	  <input type="text" placeholder="Word" ng-model="word">
+    </label>
+    <button class="button button-small" ng-click="getMeaning()">
+      Search
+    </button>
+  </div>
+</ion-header-bar>
+<ion-content style="top:105px !important;">
+	<ion-list>
+		<ion-item class="item" ng-repeat="definition in definitions"> 
+			<div style="color:#555555;font-size:10px">{{definition.Dictionary}}<div>
+			<div style="padding:5px;border:1px solid black;color:black;font-size:16px" >{{definition.Definition}}</div>
+		</ion-item>
+	</ion-list>
+</ion-content>
+</ion-view>
