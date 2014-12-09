@@ -4,7 +4,8 @@ angular.module('dictionary.controller', ['ionic'])
 	//dictService
 	$scope.getMeaning=function(){
 		//console.log('we are here');
-		dictService.getMeaning($scope);
+		dictService.getMeaning($scope,$ionicLoading);
+		$ionicLoading.show('Searching please wait');
 	}
 }
 

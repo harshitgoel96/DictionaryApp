@@ -1,2 +1,2 @@
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\AndroidManifest.xml : \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\AndroidManifest.xml \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\AndroidManifest.xml : \
+D:\Workspace\DictionaryApp\platforms\android\AndroidManifest.xml \

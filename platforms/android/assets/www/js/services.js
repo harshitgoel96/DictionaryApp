@@ -8,10 +8,12 @@ angular.module('dictionary.services',['ionic','dictionary.controller'])
 			cordova.exec(
 			function success(data){
 				//$scope.definitions=data.DATA;
-				alert(data.DATA);
+				$scope.definitions=data.DATA.Definitions;
+				$ionicLoading.hide();
 			},
 			function error(err){
-			
+			$ionicLoading.hide();
+			alert(err);
 			},
 			'dictionaryPlugin',
 			'define',

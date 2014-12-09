@@ -1,121 +1,121 @@
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\DictionaryApp.ap_ \
- : C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-hdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-ldpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-mdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\drawable-xhdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\values\strings.xml \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\res\xml\config.xml \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\_where-is-www.txt \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\cordova.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\cordova_plugins.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\css \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\img \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\index.html \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\templates \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\css\style.css \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\img\ionic.png \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\js\app.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\js\controller.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\js\services.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\css \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\version.json \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\css\ionic.css \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\css\ionic.min.css \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.eot \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.svg \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.ttf \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.woff \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic-angular.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic-angular.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.bundle.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.bundle.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.min.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionic.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_action-sheet.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_animations.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_backdrop.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_badge.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_bar.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_button-bar.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_button.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_checkbox.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_form.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_grid.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_items.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_list.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_loading.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_menu.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_mixins.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_modal.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_platform.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_popover.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_popup.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_progress.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_radio.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_range.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_reset.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_scaffolding.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_select.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_slide-box.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_tabs.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_toggle.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_type.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_util.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_variables.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\ionicons.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-animation.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-font.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-icons.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-variables.scss \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard\www \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard\www\keyboard.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\assets\www\templates\main.html \
-C:\Android Dev\WORKSPACE\DictionaryApp\platforms\android\ant-build\AndroidManifest.xml \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\DictionaryApp.ap_ \
+ : D:\Workspace\DictionaryApp\platforms\android\res\drawable\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-hdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-land-hdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-land-ldpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-land-mdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-land-xhdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-ldpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-mdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-port-hdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-port-ldpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-port-mdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-port-xhdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\res\drawable-xhdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\res\values\strings.xml \
+D:\Workspace\DictionaryApp\platforms\android\res\xml\config.xml \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+D:\Workspace\DictionaryApp\platforms\android\assets\www \
+D:\Workspace\DictionaryApp\platforms\android\assets\_where-is-www.txt \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\cordova.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\cordova_plugins.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\css \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\img \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\index.html \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\templates \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\css\style.css \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\img\ionic.png \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\js\app.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\js\controller.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\js\services.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\css \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\version.json \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\css\ionic.css \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\css\ionic.min.css \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.eot \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.svg \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.ttf \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\fonts\ionicons.woff \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic-angular.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic-angular.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.bundle.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.bundle.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\ionic.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-animate.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-resource.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular-sanitize.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular\angular.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\js\angular-ui\angular-ui-router.min.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionic.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_action-sheet.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_animations.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_backdrop.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_badge.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_bar.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_button-bar.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_button.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_checkbox.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_form.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_grid.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_items.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_list.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_loading.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_menu.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_mixins.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_modal.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_platform.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_popover.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_popup.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_progress.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_radio.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_range.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_reset.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_scaffolding.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_select.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_slide-box.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_tabs.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_toggle.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_type.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_util.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\_variables.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\ionicons.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-animation.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-font.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-icons.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\lib\ionic\scss\ionicons\_ionicons-variables.scss \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard\www \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\com.ionic.keyboard\www\keyboard.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device\www \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\plugins\org.apache.cordova.device\www\device.js \
+D:\Workspace\DictionaryApp\platforms\android\assets\www\templates\main.html \
+D:\Workspace\DictionaryApp\platforms\android\ant-build\AndroidManifest.xml \

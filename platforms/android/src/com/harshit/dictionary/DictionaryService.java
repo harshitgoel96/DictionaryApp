@@ -153,7 +153,7 @@ class offLoadTask extends AsyncTask<bckModel, Void, JSONObject> {
 			con.setRequestProperty("Content-Type", "text/xml;charset=UTF-8");
 			con.setRequestProperty("Content-Length",
 					String.valueOf(rawRequest.getBytes().length));
-			con.setRequestProperty("Accept-Encoding", "gzip,deflate");
+			//con.setRequestProperty("Accept-Encoding", "gzip,deflate");
 			LOG.i("Length:", String.valueOf(rawRequest.length()));
 			LOG.i("ByteLength:", String.valueOf(rawRequest.getBytes().length));
 			con.setRequestProperty("SOAPAction", SOAPAction);
