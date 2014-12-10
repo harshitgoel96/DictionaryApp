@@ -15,6 +15,22 @@ $royal:                           #886aea !default;
 $dark:                            #444 !default;
 */
 $positive:                        #2c3e50 !default;
+
+.wrapword{
+white-space: normal;
+
+}
+
+.dictionDiv{
+padding:5px;
+border:1px solid black;
+color:black;
+font-size:16px;
+height:auto;
+text-align:justify;
+}
+
+
 // The path for our ionicons font files, relative to the built CSS in www/css
 $ionicons-font-path: "../lib/ionic/fonts" !default;
 

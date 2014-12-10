@@ -6,7 +6,7 @@ angular.module('dictionary.services',['ionic','dictionary.controller'])
 			var wordStr=$scope.word;
 			//here will come the cordova exec code
 			//alert(wordStr);
-			if(!typeof(cordova)=='undefined'){
+			if ( typeof(device) != 'undefined'){
 $ionicLoading.show({
 		template:'Searching please wait <i class=\'ion-loading-c\'>'
 		});			
