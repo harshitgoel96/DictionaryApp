@@ -1,1 +1,20 @@
 /* Empty. Add your own CSS if you like */
+.wrapword{
+white-space: normal;
+
+}
+
+.dictionDiv{
+padding:5px;
+border:1px solid black;
+color:black;
+font-size:16px;
+height:auto;
+text-align:center;
+}
+
+.dictionName{
+style="color:#555555;
+font-size:10px"
+
+}
