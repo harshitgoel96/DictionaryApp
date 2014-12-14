@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
+           id="com.harshit.dictionary"
+      version="0.2.11">
+
+<name>DictionaryPlugin</name>
+    <description>Cordova Console Plugin</description>
+    <license>Apache 2.0</license>
+
+<platform name="wp8">
+<config-file target="config.xml" parent="/*">
+  <feature name="dictionaryPlugin">
+    <param name="wp-package" value="DictionaryPlugin"/>
+  </feature>
+</config-file>
+  <source-file src="src/DictionaryPlugin.cs" />
+  
+</platform>
+</plugin>

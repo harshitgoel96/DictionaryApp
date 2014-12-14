@@ -1,0 +1,16 @@
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\ApplicationIcon.png
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\Background.png
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\com.ionicframework.dictionaryapp240429.dll
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\com.ionicframework.dictionaryapp240429.pdb
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\AppManifest.xaml
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\Properties\WMAppManifest.xml
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\CordovaAppProj_Debug_ARM.xap
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\App.g.cs
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\cordovalib\CordovaView.g.cs
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\MainPage.g.cs
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\com.ionicframework.dictionaryapp240429.g.resources
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\com.ionicframework.dictionaryapp240429.dll
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\com.ionicframework.dictionaryapp240429.pdb
+D:\Workspace\DictionaryApp\platforms\wp8\obj\ARM\Debug\XapCacheFile.xml
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Workspace\DictionaryApp\platforms\wp8\Bin\ARM\Debug\Newtonsoft.Json.xml

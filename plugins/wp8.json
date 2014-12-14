@@ -1,0 +1,53 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"dictionaryPlugin\"><param name=\"wp-package\" value=\"DictionaryPlugin\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Console\"><param name=\"wp-package\" value=\"DebugConsole\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"Device\"><param name=\"wp-package\" value=\"Device\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            },
+            "Properties/WMAppManifest.xml": {
+                "parents": {
+                    "/Deployment/App/Capabilities": [
+                        {
+                            "xml": "<Capability Name=\"ID_CAP_IDENTITY_DEVICE\" />",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.ionic.keyboard": {
+            "PACKAGE_NAME": "{7cece7c0-8168-11e4-afd5-772cd412f898}"
+        },
+        "com.harshit.dictionary": {
+            "PACKAGE_NAME": "{7cece7c0-8168-11e4-afd5-772cd412f898}"
+        },
+        "org.apache.cordova.console": {
+            "PACKAGE_NAME": "{7cece7c0-8168-11e4-afd5-772cd412f898}"
+        },
+        "org.apache.cordova.device": {
+            "PACKAGE_NAME": "{7cece7c0-8168-11e4-afd5-772cd412f898}"
+        }
+    },
+    "dependent_plugins": {}
+}

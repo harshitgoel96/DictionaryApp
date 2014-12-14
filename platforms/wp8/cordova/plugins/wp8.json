@@ -1,0 +1,26 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {
+            "config.xml": {
+                "parents": {
+                    "/*": [
+                        {
+                            "xml": "<feature name=\"dictionaryPlugin\"><param name=\"wp-package\" value=\"DictionaryPlugin\" /></feature>",
+                            "count": 1
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "installed_plugins": {
+        "com.harshit.dictionary": {
+            "PACKAGE_NAME": "{7cece7c0-8168-11e4-afd5-772cd412f898}"
+        }
+    },
+    "dependent_plugins": {}
+}

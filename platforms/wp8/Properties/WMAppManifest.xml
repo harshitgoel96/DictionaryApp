@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deployment AppPlatformVersion="8.0" xmlns="http://schemas.microsoft.com/windowsphone/2012/deployment">
+    <DefaultLanguage code="en-US" xmlns="" />
+    <Languages xmlns="">
+        <Language code="en-US" />
+    </Languages>
+    <App Author="DictionaryApp author" BitsPerPixel="32" Description="Apache Cordova for Windows Phone" Genre="apps.normal" ProductID="{7cece7c0-8168-11e4-afd5-772cd412f898}" Publisher="DictionaryApp" PublisherID="{db093ed5-53b1-45f7-af72-751e8f36ab80}" RuntimeType="Silverlight" Title="DictionaryApp" Version="0.0.1" xmlns="">
+        <IconPath IsRelative="true" IsResource="false">ApplicationIcon.png</IconPath>
+        <Capabilities>
+            <Capability Name="ID_CAP_WEBBROWSERCOMPONENT" />
+            <Capability Name="ID_CAP_NETWORKING" />
+            <Capability Name="ID_CAP_IDENTITY_DEVICE" />
+        </Capabilities>
+        <Tasks>
+            <DefaultTask Name="_default" NavigationPage="MainPage.xaml" />
+        </Tasks>
+        <Tokens>
+            <PrimaryToken TaskName="_default" TokenID="DictionaryAppToken">
+                <TemplateFlip>
+                    <SmallImageURI IsRelative="true" IsResource="false">Background.png</SmallImageURI>
+                    <Count>0</Count>
+                    <BackgroundImageURI IsRelative="true" IsResource="false">Background.png</BackgroundImageURI>
+                    <Title>DictionaryApp</Title>
+                    <BackContent />
+                    <BackBackgroundImageURI />
+                    <BackTitle />
+                    <LargeBackgroundImageURI />
+                    <LargeBackContent />
+                    <LargeBackBackgroundImageURI />
+                    <DeviceLockImageURI />
+                    <HasLarge>false</HasLarge>
+                </TemplateFlip>
+            </PrimaryToken>
+        </Tokens>
+        <ScreenResolutions>
+            <ScreenResolution Name="ID_RESOLUTION_WVGA" />
+            <ScreenResolution Name="ID_RESOLUTION_WXGA" />
+            <ScreenResolution Name="ID_RESOLUTION_HD720P" />
+        </ScreenResolutions>
+    </App>
+</Deployment>

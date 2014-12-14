@@ -1,0 +1,36 @@
+{
+  "name": "angular-x2js",
+  "version": "0.1.1",
+  "main": "dist/x2js.min.js",
+  "authors": [
+    "cesar.bmcosta@gmail.com"
+  ],
+  "description": "Demo",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0",
+    "x2js": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.18"
+  },
+  "homepage": "https://github.com/cesarbarone/angular-x2js",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.1.1",
+    "commit": "39ad840abf101ecc77f24adcb53ab4adb5efed47"
+  },
+  "_source": "git://github.com/cesarbarone/angular-x2js.git",
+  "_target": "~0.1.1",
+  "_originalSource": "angular-x2js",
+  "_direct": true
+}
