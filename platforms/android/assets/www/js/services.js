@@ -13,7 +13,18 @@ $ionicLoading.show({
 			cordova.exec(
 					function success(data){
 					//$scope.definitions=data.DATA;
+					if(device.platform.indexOf('Win')==-1)
+					{
+						$scope.definitions=data.DATA.Definitions;
+					}
+					else{
+					//console.log(data);
 					$scope.definitions=data.DATA.Definitions;
+						for( i=0; i < data.DATA.Definitions.length;i++){
+						
+							console.log(data.DATA.Definitions[i]);
+						}
+					}
 					$ionicLoading.hide();
 				},
 				function error(err){

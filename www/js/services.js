@@ -40,16 +40,16 @@ $ionicLoading.show({
 							//$ionicLoading.hide();
 			$scope.definitions=[{
 Dictionary:'test',
-			Definition:'GO FOR IT'},
+			WordDefinition:'GO FOR IT'},
 			{
 Dictionary:'test',
-			Definition:'GO FOR IT'},
+			WordDefinition:'GO FOR IT'},
 			{
 Dictionary:'test',
-			Definition:'GO FOR IT'},
+			WordDefinition:'GO FOR IT'},
 			{
 Dictionary:'test',
-			Definition:'GO FOR IT'},
+			WordDefinition:'GO FOR IT'},
 			];
 		
 				/*

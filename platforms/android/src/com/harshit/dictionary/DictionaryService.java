@@ -227,7 +227,7 @@ class offLoadTask extends AsyncTask<bckModel, Void, JSONObject> {
 									"WordDefinition");
 							String dictionaryName = getNodeValue(definitionEl,
 									 "Dictionary");
-							tempObj.put("Definition", definition);
+							tempObj.put("WordDefinition", definition);
 							tempObj.put("Dictionary", dictionaryName);
 							definitionArray.put(tempObj);
 						}
